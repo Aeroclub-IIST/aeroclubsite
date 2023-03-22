@@ -29,18 +29,18 @@
 
 .skdslider ul.slide-navs li {
   float: left;
-    background: url("/static/img/slide-bg.png") no-repeat scroll 0 0 transparent;
+    background: url("https://aeroclub-iist.github.io/aeroclubsite/static/img/slide-bg.png") no-repeat scroll 0 0 transparent;
     height:12px;
     width:12px;
     margin-right:4px;
     cursor:pointer;
 }
 .skdslider ul.slide-navs li.active {
-  background: url("/static/img/slide-bg-active.png") no-repeat scroll 0 0 transparent;
+  background: url("https://aeroclub-iist.github.io/aeroclubsite/static/img/slide-bg-active.png") no-repeat scroll 0 0 transparent;
 }
 
 .skdslider .slide-desc {
-    background: url("/static/img/slide_desc.png") repeat scroll 0 0 transparent;
+    background: url("https://aeroclub-iist.github.io/aeroclubsite/static/img/slide_desc.png") repeat scroll 0 0 transparent;
     left: 0;
     padding: 0 15px 0 15px;
     position: absolute;
@@ -74,7 +74,7 @@
 }
 
 .skdslider a.prev{
-  background: url("/static/img/left.png") no-repeat scroll 0 0 transparent;
+  background: url("https://aeroclub-iist.github.io/aeroclubsite/static/img/left.png") no-repeat scroll 0 0 transparent;
     width:35px;
     height:35px;
     display:block;
@@ -86,7 +86,7 @@
 }
 
 .skdslider a.next{
-  background: url("/static/img/right.png") no-repeat scroll 0 0 transparent;
+  background: url("https://aeroclub-iist.github.io/aeroclubsite/static/img/right.png") no-repeat scroll 0 0 transparent;
     width:35px;
     height:35px;
     display:block;
@@ -104,7 +104,7 @@
 }
 
 .skdslider a.play {
-    background: url("/static/img/play.png") no-repeat scroll center center transparent;
+    background: url("https://aeroclub-iist.github.io/aeroclubsite/static/img/play.png") no-repeat scroll center center transparent;
     width:35px;
     height:35px;
     display:none;
@@ -116,7 +116,7 @@
 }
 
 .skdslider a.pause{
-  background: url("/static/img/pause.png") no-repeat scroll center center transparent;
+  background: url("https://aeroclub-iist.github.io/aeroclubsite/static/img/pause.png") no-repeat scroll center center transparent;
     width:35px;
     height:35px;
     display:none;

@@ -158,7 +158,8 @@ hr{
     position:relative;
     margin-left:-15px;
     padding-left:40px;
-    padding-top,padding-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     z-index:99;
     display:none;
     flex-direction: column;
