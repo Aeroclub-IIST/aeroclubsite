@@ -39,7 +39,7 @@ body{
     justify-content: center;
     flex-direction: column;
     margin:0;
-    background: linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url('/static/img/bg.gif');
+    background: linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url('https://aeroclub-iist.github.io/aeroclubsite/static/img/bg.gif');
     background-repeat:no-repeat;
     background-size: cover;
     clip-path: polygon(0 0, 100% 0, 100% 90%, 50% 100%, 0 90%);
